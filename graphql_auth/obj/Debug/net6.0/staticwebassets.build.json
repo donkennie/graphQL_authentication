@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K8rn/2FHG3RA9DRxbfCSTswsuY5rG+Cbu+4jBbrfIpA=",
+  "Source": "graphql_auth",
+  "BasePath": "_content/graphql_auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
